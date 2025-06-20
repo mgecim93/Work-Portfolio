@@ -1,4 +1,4 @@
-📁 Dataset: enchantments_lottery_results_2021-2022.csv
+### 📁 Dataset: enchantments_lottery_results_2021-2022.csv
 This dataset contains two years of reservation application results for The Enchantments Wilderness Permit Lottery, one of the most competitive outdoor permit systems in the U.S.
 
 Columns include:
@@ -17,10 +17,10 @@ was_awarded: Whether the permit was successfully awarded (Yes/No)
 
 lottery_draw_time: Timestamp when the lottery was run
 
-📊 Tableau Workbook: Assignment 3.twb
+### 📊 Tableau Workbook: Assignment 3.twb
 This Tableau workbook visualizes the dataset to uncover patterns and insights in the permit lottery system.
 
-### Key Features of the Dashboard:
+ Key Features of the Dashboard:
 
 Award Rates by Permit Zone – Identify which zones are most competitive
 
