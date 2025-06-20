@@ -30,11 +30,9 @@ State-by-State Heatmap – See where applicants come from and which regions win 
 
 Year-over-Year Comparison – Analyze trends between 2021 and 2022
 
-Insights Discovered
-The Core Enchantments zone has the lowest success rate due to high demand
+### 💡 Insights Discovered
 
-Solo and smaller groups had higher odds of getting permits
-
-Most applicants came from Washington, Oregon, and California
-
-There was an increase in applications in 2022 compared to 2021
+- The **Core Enchantments** zone has the lowest success rate due to high demand  
+- **Solo and smaller groups** had higher odds of getting permits  
+- Most applicants came from **Washington, Oregon, and California**  
+- There was an increase in applications in **2022 compared to 2021**
