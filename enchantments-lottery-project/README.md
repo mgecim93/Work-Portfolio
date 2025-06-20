@@ -20,7 +20,7 @@ lottery_draw_time: Timestamp when the lottery was run
 📊 Tableau Workbook: Assignment 3.twb
 This Tableau workbook visualizes the dataset to uncover patterns and insights in the permit lottery system.
 
-Key Features of the Dashboard:
+### Key Features of the Dashboard:
 
 Award Rates by Permit Zone – Identify which zones are most competitive
 
